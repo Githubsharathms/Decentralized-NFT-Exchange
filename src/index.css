@@ -14,29 +14,29 @@ body {
 }
 
 .gradient-bg-hero {
-  background-color: #151c25;
+  background-color: #f09655;
   background-image: radial-gradient(
       at 0% 0%,
-      hsl(302deg 25% 18%) 0,
+      hsl(18, 25%, 18%) 0,
       transparent 50%
     ),
     radial-gradient(at 50% 0%, hsl(0deg 39% 30%) 0, transparent 50%),
     radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 1) 0, transparent 50%);
 }
 
-.gradient-bg-artworks {
-  background-color: #0f0e13;
+/* .gradient-bg-artworks {
+  background-color: #f6bb92;
   background-image: radial-gradient(
       at 50% 50%,
-      hsl(302deg 25% 18%) 0,
+      hsl(18, 80%, 67%) 0,
       transparent 50%
     ),
     radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
     radial-gradient(at 50% 50%, hsla(339, 39%, 25%, 1) 0, transparent 50%);
-}
+} */
 
 .gradient-bg-footer {
-  background-color: #151c25;
+  background-color: #f09655;
   background-image: radial-gradient(
       at 0% 100%,
       hsl(0deg 39% 30%) 0,

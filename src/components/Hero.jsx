@@ -55,7 +55,7 @@ const Hero = () => {
       mt-10 md:mt-0 rounded-md overflow-hidden bg-gray-800"
       >
         <img
-          src="https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDYvNGE4NmNmOWQtODM2Mi00YmVhLThiMzctZDEyODAxNjUxZTE1LmpwZWc=.jpg"
+          src="https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=840/https://s3.cointelegraph.com/uploads/2022-05/dc2d91b6-2711-43dc-901f-403d20cf2f9c.jpg "
           alt="NFT Art"
           className="h-60 w-full object-cover"
         />
